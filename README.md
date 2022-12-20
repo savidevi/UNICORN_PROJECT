@@ -4,7 +4,7 @@ This project will combine on SQL, Spreadsheets, and Tableau. The project include
 
 Data Exploration and Analysis using SQL, Spreadsheets and Tableau
 Presentation of findings and insights.
-I work individually on the first project part and in a small team of  4 on the second part of the project.
+I work individually on the first project part and in a small team of  5 on the second part of the project.
 
 #### Project: 
 The online sector has been slowly eating up market share in the past two decades. E-commerce platforms like Unicorn allow people to buy products online: from books, toys, clothes, and shoes to food, furniture, and other household items. The following dataset includes Unicorn sales data from the years 2015-2018.
